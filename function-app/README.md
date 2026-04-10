@@ -16,7 +16,7 @@ PDF Upload → Blob Storage (insurance-claims container)
 Blob Storage (processed-data container)
 ```
 
-## Features
+## Features vcf
 
 - **Automatic Processing**: Triggers when PDFs are uploaded to the `insurance-claims` container
 - **Document Analysis**: Extracts text, key-value pairs, and tables using Azure Document Intelligence
